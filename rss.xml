@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[THtest]]></title>
         <description><![CDATA[THtest]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thtest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 09:17:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 May 2016 09:27:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thtest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c941438-48c0-4c9c-8b75-7fac0455b812.jpg">]]></description>
+            <link>https://thegrid.ai/thtest/nasta-post/index.html</link>
+            <guid isPermaLink="false">7b5ecbee-4dc2-424e-9464-4eeceb905c98</guid>
+            <pubDate>Fri, 06 May 2016 09:27:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Här står en rubrik</p>]]></description>
-            <link>undefinedhar-star-en-rubrik/index.html</link>
+            <link>https://thegrid.ai/thtest/har-star-en-rubrik/index.html</link>
             <guid isPermaLink="false">127b7c4b-2c0d-4fa5-bf8f-748c230dc6a7</guid>
             <pubDate>Fri, 06 May 2016 09:17:24 GMT</pubDate>
         </item>
